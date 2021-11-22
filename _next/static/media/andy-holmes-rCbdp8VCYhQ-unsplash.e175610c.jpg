@@ -1,0 +1,1 @@
+var src = "/scrolling-animation/_next/static/chunks/images/andy-holmes-rCbdp8VCYhQ-unsplash-4303eeacc83df3df65c05d9829d3ed4c.jpg";module.exports={src:src,width:4639,height:1080,format:"jpeg",toString:function(){return src;}};
